@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [MyTileControl.cs](./CS/MyTileControl.cs) (VB: [MyTileControl.vb](./VB/MyTileControl.vb))
+* [Program.cs](./CS/Program.cs)
+<!-- default file list end -->
 # How to suppress TileControl default navigation logic, and obtain "Esc" key down?
 
 
